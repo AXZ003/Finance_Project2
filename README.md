@@ -10,7 +10,7 @@ Finanza offers users the ability to create a personalized financial portfolio. I
 # Sketch
 
 <img width="1440" alt="screen shot 2018-08-23 at 12 57 52 am" src="https://user-images.githubusercontent.com/35501766/44683349-ba31fb00-aa0b-11e8-8984-6285b07bf452.png">
-<img width="722" alt="screen shot 2018-08-27 at 3 16 40 pm" src="https://user-images.githubusercontent.com/35501766/44683592-6247c400-aa0c-11e8-8d9c-ffdaf6da38c4.png">
+<img width="1436" alt="screen shot 2018-08-27 at 3 21 07 pm" src="https://user-images.githubusercontent.com/35501766/44683818-f4e86300-aa0c-11e8-86b4-d418b8e57998.png">
 <img width="1411" alt="screen shot 2018-08-27 at 3 16 54 pm" src="https://user-images.githubusercontent.com/35501766/44683624-7b507500-aa0c-11e8-9c8a-896275650aa4.png">
 <img width="1426" alt="screen shot 2018-08-27 at 3 17 18 pm" src="https://user-images.githubusercontent.com/35501766/44683674-94f1bc80-aa0c-11e8-9617-598866435385.png">
 
