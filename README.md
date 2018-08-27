@@ -8,7 +8,11 @@
 # Description
 Finanza offers users the ability to create a personalized financial portfolio. It allows users to create an account where they can keep track of all their stocks and evaluate their current state in the market. It also allows users to research specific stocks with up to date data. 
 # Sketch
-- video/images
+
+<img width="1440" alt="screen shot 2018-08-23 at 12 57 52 am" src="https://user-images.githubusercontent.com/35501766/44683349-ba31fb00-aa0b-11e8-8984-6285b07bf452.png">
+<img width="722" alt="screen shot 2018-08-27 at 3 16 40 pm" src="https://user-images.githubusercontent.com/35501766/44683592-6247c400-aa0c-11e8-8d9c-ffdaf6da38c4.png">
+<img width="1411" alt="screen shot 2018-08-27 at 3 16 54 pm" src="https://user-images.githubusercontent.com/35501766/44683624-7b507500-aa0c-11e8-9c8a-896275650aa4.png">
+<img width="1426" alt="screen shot 2018-08-27 at 3 17 18 pm" src="https://user-images.githubusercontent.com/35501766/44683674-94f1bc80-aa0c-11e8-9617-598866435385.png">
 
 # Technologies Used
 
