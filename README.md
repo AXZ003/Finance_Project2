@@ -6,7 +6,7 @@
 - [Elaulas Cristiano ](https://github.com/elaulas)
 
 # Description
-Finanza offers users the ability to create a personalized financial portfolio. It allows users to create an account where they can keep track of all their stocks and evaluate their current state in the market. It also allows users to research specific stocks with up to date data. 
+Finanza offers users the ability to create a personalized financial portfolio. Additionally, it allows users to create an account where they can keep track of all their stocks and evaluate their current state in the market as well as to research specific stocks with up to date data. 
 # Sketch
 
 <img width="1440" alt="screen shot 2018-08-23 at 12 57 52 am" src="https://user-images.githubusercontent.com/35501766/44683349-ba31fb00-aa0b-11e8-8984-6285b07bf452.png">
